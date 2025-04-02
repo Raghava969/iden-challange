@@ -7,8 +7,8 @@ SESSION_FILE = "session.json"
 OUTPUT_FILE = "product_data.json"
 LOGIN_URL = "https://hiring.idenhq.com/"
 
-USERNAME = "username"
-PASSWORD = "password"
+USERNAME = "Username"
+PASSWORD = "Password"
 
 
 async def save_session(context, page):
